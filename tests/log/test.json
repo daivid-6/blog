@@ -1,0 +1,35 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 2
+}{
+    "event": "suiteStart",
+    "suite": "LoginTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "LoginTest",
+    "test": "LoginTest::testExample"
+}{
+    "event": "test",
+    "suite": "LoginTest",
+    "test": "LoginTest::testExample",
+    "status": "pass",
+    "time": 0.47466182708740234,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LoginTest",
+    "test": "LoginTest::test"
+}{
+    "event": "test",
+    "suite": "LoginTest",
+    "test": "LoginTest::test",
+    "status": "pass",
+    "time": 0.17502212524414062,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
